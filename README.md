@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hey, I'm Roshan Gupta 👋
 
-<!--
-**rgroshanrg/rgroshanrg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Backend.
+- 🌱 I’m currently learning Node.js.
+- 👯 I’m looking to collaborate on freelancing for Web Development.
+- 🤔 I’m looking for help with Project Design.
+- 💬 Ask me about Web Development, Ethical Hacking and Tech.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rgroshanrg/) . [Portfolio](https://rgroshanrg.github.io/)
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: Logical in Emotional Moments.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Roshan's github stats](https://github-readme-stats.vercel.app/api?username=rgroshanrg)](https://github.com/rgroshanrg/github-readme-stats)
