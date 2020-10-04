@@ -1,5 +1,5 @@
-### Hey, I'm Roshan Gupta 👋.
-#### Web Developer & Competitive Coder
+## Hey, I'm Roshan Gupta 👋.
+### Web Developer & Competitive Coder
 
 Skills and Experince: 
 
