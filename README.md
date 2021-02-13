@@ -7,14 +7,14 @@ Skills and Experince:
 - 💻 C / C++ / Java / HTML / CSS / Javascript
 - 🗹 Data Structures & Algorithms.
 
-- 🔭 I’m currently working on Backend. 
-- 🌱 I’m currently learning Node.js. 
+- 🔭 I’m currently working on Backend an Problem Solving. 
+- 🌱 I’m currently learning Machine Learning. 
 - 👯 I’m looking to collaborate on freelancing for Web Development. 
-- 🤔 I’m looking for help with Project Design. 
-- 💬 Ask me about Web Development, Ethical Hacking and Tech. 
+- 🤔 I’m looking for help with Project Collaboration. 
+- 💬 Ask me about Web Development, Data Structure and Algorithms. 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rgroshanrg/) . [Portfolio](https://rgroshanrg.github.io/) 
 - 😄 Pronouns: He/His 
-- ⚡ Fun fact: Logical in Emotional Moments. 
+- ⚡ Fun fact: No idea. 
 
 ![Profile views](https://gpvc.arturio.dev/rgroshanrg)  
 
