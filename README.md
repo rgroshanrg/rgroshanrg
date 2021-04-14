@@ -1,10 +1,9 @@
 ## Hey, I'm Roshan Gupta 👋.
-### Web Developer & Competitive Coder
 
 Skills and Experince: 
 
 - ☊ Nodejs / MongoDB
-- 💻 C / C++ / Java / HTML / CSS / Javascript
+- 💻 C/C++ - Java - Javascript - Python
 - 🗹 Data Structures & Algorithms.
 
 - 🔭 I’m currently working on Backend an Problem Solving. 
