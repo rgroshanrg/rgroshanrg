@@ -11,7 +11,7 @@ Skills and Experince:
 - 👯 I’m looking to collaborate on freelancing for Backend Web Development. 
 - 🤔 I’m looking for help with Project Collaboration. 
 - 💬 Ask me about Backend Development, Data Structure and Algorithms. 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rgroshanrg/) | Email: [Email](mailto:rgroshanrg@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rgroshanrg/) | Email: [Email](mailto:rgroshanrg@gmail.com) (rgroshanrg@gmail.com)
 
 ![Profile views](https://gpvc.arturio.dev/rgroshanrg)  
 
