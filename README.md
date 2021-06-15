@@ -6,7 +6,6 @@ Skills and Experince:
 - 💻 C/C++ - Javascript - Python
 - 🗹 Data Structures & Algorithms.
 - 💻 Databases : MongoDB & MySQL
-- 
 
 - 🔭 I’m currently working on Backend and Problem Solving. 
 - 🌱 I’m currently learning Machine Learning. 
