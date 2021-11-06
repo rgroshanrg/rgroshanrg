@@ -1,6 +1,6 @@
 ## Hey, I'm Roshan Gupta 👋.
 
-Skills and Experince: 
+Skills and Experience: 
 
 - ☊ Web Development(Nodejs) & Competitive Coding
 - 💻 C/C++ - Javascript - Python
