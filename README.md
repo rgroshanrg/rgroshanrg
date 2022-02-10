@@ -1,4 +1,4 @@
-## Hey, I'm Roshan Gupta 👋.
+## Hey, I'm Roshan Gupta 👋
 
 Skills and Experience: 
 
