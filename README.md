@@ -2,17 +2,12 @@
 
 Skills and Experience: 
 
-- ☊ Web Development(Nodejs) & Competitive Coding
-- 💻 C/C++ - Javascript - Python
+- ☊ Web3 Development(Solidity) & Competitive Coding
+- 💻 C/C++ - Javascript - Java
 - 🗹 Data Structures & Algorithms.
-- 💻 Databases : MongoDB & MySQL
+- 💻 Databases : SQL & MongoDB
 
-- 🔭 I’m currently working on Backend and Problem Solving. 
-- 🌱 I’m currently learning Machine Learning. 
-- 👯 I’m looking to collaborate on any tech projects. 
-- 💬 Ask me about Backend Development, Data Structure and Algorithms. 
+- 🔭 I’m currently working on DApp Development.
+- 👯 I’m looking for Internships.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rgroshanrg/) | Email: rgroshanrg@gmail.com
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rgroshanrg&show_icons=true)
 
